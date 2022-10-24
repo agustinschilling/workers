@@ -20,6 +20,7 @@
     .we_do .we_box h3 {
         font-size: 19px;
         line-height: 25px;
+        width: 200px;
     }
     .main_form {
         margin-top: 39px;
